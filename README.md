@@ -21,9 +21,10 @@ This is a web page made by me to be integrated in a website soon. A fully respon
 
 Please tell if you find something amazing datasets that i could use in it .. 🙇🏻
 
+
 THANKS 🫱🏻‍🫲🏻🤖
 
 
 ## VISUAL 
 
-"C:\Users\Advay Anand\OneDrive\Pictures\Screenshots\Screenshot 2025-02-24 123647.png"
+![Screenshot 2025-02-24 123647](https://github.com/user-attachments/assets/96e0b9f4-3fe3-421f-914c-173f5de80e55)
